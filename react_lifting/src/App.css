@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.counter-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.counter {
+  margin-right: 20px;
+}
+
+.counter-controls button {
+  margin: 0 5px;
+  padding: 8px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
